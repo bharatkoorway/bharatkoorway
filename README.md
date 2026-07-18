@@ -4,7 +4,7 @@ I'm Bharat, a freelancer based in Mumbai India.
 
 I enjoy spotting the little details and solving problems. 
 
-I'm always learning and exploring new technology and I love meaningful conversations and sharing ideas with people from different backgrounds.
+I'm always learning and exploring new technology and ideas, and I love meaningful conversations and sharing ideas with people from different backgrounds.
 
 <!--
 **bharatkoorway/bharatkoorway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
